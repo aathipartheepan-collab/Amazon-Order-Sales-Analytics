@@ -49,13 +49,16 @@ This project is an interactive Amazon analytics dashboard developed in Microsoft
 Add screenshots exported from your actual Power BI report to the `images` folder. Then update the filenames below to match the screenshots you upload.
 
 ### Overview
-![Overview Dashboard](images/overview.png)
+<img width="893" height="503" alt="Screenshot 2026-10-14 200129" src="https://github.com/user-attachments/assets/4b2c7fca-a03e-4598-a902-9f226763434d" />
+
 
 ### Reviews, Products & Location Analysis
-![Reviews and Location Analysis](images/reviews-products-location.png)
+<img width="891" height="503" alt="Screenshot 2026-10-14 203635" src="https://github.com/user-attachments/assets/40dae7a2-6683-4bbd-8a4a-10e0cc0ad3f2" />
+
 
 ### Customer Analysis
-![Customer Analysis](images/customer-analysis.png)
+<img width="892" height="502" alt="Screenshot 2026-10-14 203714" src="https://github.com/user-attachments/assets/bf58c71b-7526-4e82-827c-ce8496d844e6" />
+
 
 ## Insights
 Use this section to record findings confirmed from the report, such as sales totals, order trends, rating patterns, state-level differences, or customer-segment comparisons. Add exact numbers only after checking the dashboard.
@@ -77,5 +80,5 @@ Amazon-Order-Sales-Analytics/
 Aspiring Data Analyst
 
 - **Skills:** Add only the tools and skills used in this project.
-- **LinkedIn:** Add your LinkedIn profile URL.
+- **LinkedIn:** www.linkedin.com/in/partheepan-s-305b962ab
 - **GitHub:** Add your GitHub profile URL.
