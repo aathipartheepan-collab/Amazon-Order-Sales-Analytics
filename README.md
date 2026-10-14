@@ -81,4 +81,4 @@ Aspiring Data Analyst
 
 - **Skills:** Add only the tools and skills used in this project.
 - **LinkedIn:** www.linkedin.com/in/partheepan-s-305b962ab
-- **GitHub:** Add your GitHub profile URL.
+- **GitHub:** https://github.com/aathipartheepan-collab
