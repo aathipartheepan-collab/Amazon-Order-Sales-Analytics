@@ -38,7 +38,8 @@ Open `amazon(1).pbix` using Microsoft Power BI Desktop to explore the report.
 ## Dashboard Screenshots
 Add screenshots of your Power BI report to a folder named `images`, then update the image path below.
 
-![Dashboard Preview](images/dashboard-overview.png)
+![Dashboard Preview]<img width="893" height="503" alt="Screenshot 2026-10-14 200129" src="https://github.com/user-attachments/assets/92e22a6b-79e7-4fee-85c3-4be5daae4e9b" />
+
 
 ## Key Insights
 Add the actual findings from your dashboard here, such as top-performing products, sales trends, customer patterns, or inventory observations. Use only values confirmed by your report.
