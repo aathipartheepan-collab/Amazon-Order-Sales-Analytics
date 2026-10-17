@@ -79,6 +79,5 @@ Amazon-Order-Sales-Analytics/
 
 Aspiring Data Analyst
 
-- **Skills:** Add only the tools and skills used in this project.
 - **LinkedIn:** www.linkedin.com/in/partheepan-s-305b962ab
 - **GitHub:** https://github.com/aathipartheepan-collab
